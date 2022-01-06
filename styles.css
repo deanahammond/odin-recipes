@@ -1,0 +1,30 @@
+/* stylesheet for Odin Recipe pages */
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blanchedalmond;
+    color:rgb(80, 74, 74);
+}
+
+.recipe-image,.moose{
+    height: auto;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipe-list {
+    list-style-type:circle;
+    letter-spacing: 110%;
+    line-height: 150%;
+    font-weight: 700;
+    width: 300px;
+    margin: 0 auto;
+
+    
+}
+
+h1,h4 {
+    text-align: center;
+}
